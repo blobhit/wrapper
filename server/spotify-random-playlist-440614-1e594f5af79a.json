@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "spotify-random-playlist-440614",
+  "private_key_id": "1e594f5af79a7e8d0a183896da0b780e9e8c6239",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDAijjbxFolnLwC\n8gncYVNjRikmK2KpCWuAozB6b28E+dCoWv02qM+Q70FLPUFe4wnVsWa1DqO0/dwQ\nWUq+VdvQ6GAetlCpNbIsskO9cxuWq2JEu70OhUiwb5lFrP0JlUcg8Th4qWH4QQ0c\nHaBVgTGNNcmpXy4jpoTNJEJeFgvRJXCsUpJVoC0+JPLdpvK5b9Gnln50M95ZatT4\nKGLbak7E+oPdhpPHn37AF5mObOrsPrLJoe5Hrl6TYMrsZxrFiur0fX/enzN3kcFm\nIiN5L9rRUzOb7CcmfltmLOQuJ6naIOxbKGiDNu6kP83T7xHwsUIcMTbIcfOiLaSm\nv7/dl3/5AgMBAAECggEABxsi2ZOP2ysDcl1h+Uj7RaLxglfgEoqHNe5v69jggU/C\nAHCpP0LwNDJsV71JRBn/gyxCtOR3LMcgv9a30DoFfJqS75c9d11Et+sVXnDY4BDv\ntcczBU3sfpyDzONDTH7+qsvUUHm55Kpr9DFwuS8lN8e4K2DYqFatOJABxgysv3mA\nhyBI53y/JNMOy10UchtSUGKakKDELmd0O0V3Gddc8E2v6c4yXWXgUwM5OIJX3Zya\nqeoAxPRZ92lLr+imsoZHgFM/ckTD8vpGBbuE1fCjmv87wb2xUki8odfLcWaYh9lQ\nRiRmN4Sb3cozKDx53yIhIEr6fxwKwII7z10INeXvDQKBgQD4W3Yr2gR0Y3drD+Cl\n6HN3TCRerIOg/KVcVHS/FaJyCEmJWC2RygkZc3KfUoWXAwJUHsWdT7aqI+Dqq/rj\nlp4437y2wu4bpqVKi2k1tAHOZ/GMwEnrM/irBCENtxR9HsbIQYr76axw0M8e/cZE\no5OUYqAaoySKFiPrE2+duVdH9QKBgQDGdwk4YySw/PLXzPDyfSHhrY9JzOR3IgQW\nbDiI/TfWbAcwSc0Yk80ye0nMWrI8ZJhlEZ0H+FoJ0gj7I8ihASa++4KnxFM3b707\ntzw3QP0Xv6GocsB4piBNpwj57V+Ln4GbM3KuC0IA5I2A4eS8TWgpkM60XEg23vBD\nXlte+vwJdQKBgQDRlBz8lFX+AZHcfuGMH8SQf2iRm/LX/1trtrluJsuWfvfPNuH9\njQhwucOYPwMMlDV61xzby1DR8sTyQ37MX2XViLivYX+dRdtmNI7sCqMbkwt7Qykd\nmhXV+v4JnN1lWHtWsjierGogKZUfCfguI/t91FxXHiTPgi99SEGAT88foQKBgQCp\ntVZ8EkNo2RQrtsL/CEO1wH07xWpD+SF3rxj1A1sBDyVihGlOL+0S0tw7U/7/p6Gt\nI0+dZiBQL3ugjWvdSafBPj7uiPIEAJfXfYuPUBJcgXCSI3Y0dRJAdKo3VWUTdtUU\nSv0wmM3bB5V89S1sW+DLUll/Xz4dNaxMX15QrNxilQKBgQCMAmYNut/BZuElCMCz\n59iwXq5+Qs6bfTdY4seppgCpjiEzhteRKt7A6QqqbvIuVhHoQHBzCV6roZxHFhGH\n50jOHp89lIZld9fBdCG4m63fm+pg9+yB6ODUHpQ/Uo8Q/C2IPRAunXTuc8wOUfWi\nf00m2HBO2QnQvpXuXvVsjMtPhQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "spotifyrandomizedplaylistmaker@spotify-random-playlist-440614.iam.gserviceaccount.com",
+  "client_id": "117872371560665710102",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/spotifyrandomizedplaylistmaker%40spotify-random-playlist-440614.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
